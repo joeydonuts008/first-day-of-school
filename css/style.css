@@ -1,0 +1,36 @@
+body {
+    background: #ffffff;
+}
+
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    color: #c81313;
+}
+
+.hero {
+    background-size: cover;
+    background-position: center;
+    color: #c81313;
+    padding: 150px 0;
+    text-align: center;
+}
+
+.hero img {
+    width: 70vw;
+    max-width: 1000px;
+    height: auto;
+    display: block;
+    margin: 0 auto 30px auto;
+}
+
+.hero h2 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1.7rem;
+}
